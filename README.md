@@ -24,4 +24,4 @@
 * For our optimized model, we need to add more parameters.
 * Some features have correlation and we build the model with the assumption that all features are independent. Thus, we need to do feature selection before building the model to reduce correlation.
 
-# Performance analysis and recommedations can be verfied using the jupyter notebook or the html file provided above.
+### Performance analysis and recommedations can be verfied using the jupyter notebook or the html file provided above and complete report can be viewed through the ppt file provided.
